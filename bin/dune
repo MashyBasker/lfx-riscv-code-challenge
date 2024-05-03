@@ -1,0 +1,4 @@
+(executable
+ (public_name riscv_downstream_sail_task_lfx)
+ (name main)
+ (libraries str riscv_downstream_sail_task_lfx))

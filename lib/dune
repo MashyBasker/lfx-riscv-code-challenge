@@ -1,0 +1,2 @@
+(library
+ (name riscv_downstream_sail_task_lfx))
